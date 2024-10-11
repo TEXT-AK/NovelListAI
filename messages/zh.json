@@ -1,52 +1,52 @@
 {
   "Product": {
-    "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "name": "2book",
+    "solgan": "轻松交易二手书，省钱又省心"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "2book"
     },
     "Hero": {
-      "title": "让闲置点亮生活",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "省钱买书，两全其美",
+      "description": "使用便捷工具与安全环境，轻松交易二手书，助您高效获取学习资源。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "二手书搜索引擎",
+        "description": "轻松查找你需要的二手书，按书名、作者或ISBN精准搜索"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "实惠交易",
+        "description": "快速浏览和比较书籍价格，找到最划算的二手书"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "简便发布",
+        "description": "只需几步上传书籍信息，轻松发布你的二手书。"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": " 安全交易保障",
+        "description": "通过平台确保交易安全，提供买卖双方的安全保障。"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
-        "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "name": "李启航",
+        "role": "未来国策顾问",
+        "content": "在这里买书，钱包不哭了，心情美美哒！学期结束时书也能退休，真是双赢！"
       },
       "testimonial2": {
-        "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "name": "阿创意",
+        "role": "首席艺术怪才",
+        "content": "发布书籍就像做涂鸦，轻松又好玩，二手书也能变成艺术珍品，简直是艺术界的奇迹！"
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "name": "王厨神",
+        "role": "米其林评审",
+        "content": "我靠买二手书来充实内涵，吃饭也有文化，真是一举两得！"
       }
     },
     "Header": {
